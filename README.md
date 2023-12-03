@@ -19,15 +19,20 @@
 
 
 ### 팀원 소개
-## 프론트엔드
+#### 프론트엔드
 |**이름**|**email**|**github**|
 |--|-----|-----|
 |최윤지|yyy0304@ajou.ac.kr|https://github.com/choiyz|
 |윤정환|jungwani98@ajou.ac.kr|https://github.com/201820722|
 
-## 백엔드
+
+#### 백엔드
 |**이름**|**email**|**github**|
 |--|-----|-----|
 |서상원|yyy0304@ajou.ac.kr|https://github.com/SnagwonSeo|
 |김수현|sooh@ajou.ac.kr|https://github.com/susooo|
 |김도윤|rlaehdbs20@ajou.ac.kr|https://github.com/Ajou-sipdo|
+
+
+### 서비스 요약
+
