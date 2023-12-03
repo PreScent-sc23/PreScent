@@ -34,6 +34,9 @@
 |김도윤|rlaehdbs20@ajou.ac.kr|https://github.com/Ajou-sipdo|
 
 <br/> <br/>
+## 기술스택
+<img width="972" alt="KakaoTalk_20231203_223531617" src="https://github.com/PreScent-sc23/PreScent/assets/118275773/3a171f29-e91a-41e9-ab91-6305340ca04e">
+<br/> <br/>
 
 ## 서비스 요약
 
