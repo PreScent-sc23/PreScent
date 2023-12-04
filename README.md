@@ -40,5 +40,6 @@
 
 ## 서비스 요약
 
+![1_11zon](https://github.com/PreScent-sc23/PreScent/assets/92291198/79de9a60-a103-478e-9b5d-90dbcf973381)
 
-![PreScent_sc23](https://github.com/PreScent-sc23/PreScent/assets/118275773/d63ed37f-3faf-4bb1-882a-b6674aa08aea)
+
