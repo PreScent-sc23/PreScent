@@ -15,7 +15,11 @@
 - 프론트엔드(React): https://github.com/PreScent-sc23/frontend
 - 백엔드(SpringBoot): https://github.com/PreScent-sc23/backend
 
-<br/>
+
+## 메인 로고 🎨
+<img src="https://github.com/PreScent-sc23/PreScent/assets/134992891/30be0168-2cf2-4b7d-a125-7d679437084a" width="80" height="80"/>
+
+## 프로젝트 개요 📖
 
 ## 팀원 소개
 #### 프론트엔드
@@ -39,6 +43,30 @@
 <br/> <br/>
 
 ## 서비스 요약
+## 구현 목표 🎯
+- 판매자 기능
+  - [x] 회원가입 페이지
+  - [x] 판매자 홈 페이지
+  - [x] 가게등록 페이지
+  - [x] 상품관리 페이지
+  - [x] 완제품 상품등록 페이지
+  - [x] 주문제작 상품등록 페이지
+  - [x] 주문내역 조회 페이지
+  - [x] 홈 광고 배너
+  - [ ] 통계 페이지
+
+- 고객 기능
+  - [x] 회원가입 페이지
+  - [x] 고객 홈 페이지
+  - [x] 태그 검색 페이지
+  - [x] 상품 세부정보 페이지
+  - [x] 장바구니 페이지
+  - [x] 꽃말 사전 페이지 (PS:사전)
+  - [x] AI 꽃 분석 페이지 (PS:Lens)
+  - [x] GPT 활용 꽃다발 이미지 분위기 추출 
+  - [x] 결제 페이지
+  - [x] 고객 마이페이지
+
 
 ![1_11zon](https://github.com/PreScent-sc23/PreScent/assets/92291198/79de9a60-a103-478e-9b5d-90dbcf973381)
 
